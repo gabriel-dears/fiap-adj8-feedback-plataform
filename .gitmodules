@@ -1,0 +1,9 @@
+[submodule "fiap-adj8-feedback-app"]
+	path = fiap-adj8-feedback-app
+	url = https://github.com/gabriel-dears/fiap-adj8-feedback-app.git
+[submodule "functions/fiap-adj8-feedback-notify-admin-function"]
+	path = functions/fiap-adj8-feedback-notify-admin-function
+	url = https://github.com/gabriel-dears/fiap-adj8-feedback-notify-admin-function.git
+[submodule "functions/fiap-adj8-feedback-weekly-report-function"]
+	path = functions/fiap-adj8-feedback-weekly-report-function
+	url = https://github.com/gabriel-dears/fiap-adj8-feedback-weekly-report-function.git
